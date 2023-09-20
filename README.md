@@ -1,75 +1,45 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=martinzakhaev&label=Profile%20views&color=0e75b6&style=flat" alt="martinzakhaev" /> </p>
+# Hi there, I'm Rifqi Fachriza Sukmana 👋
 
-![front-end](https://github.com/MartinZakhaev/martinzakhaev/assets/78039794/576440c0-2804-4c1e-bd67-8c3df7663842)
+## About Me
+I'm a passionate **Backend Developer** and **Cyber Security Enthusiast**. With a strong technical background, I aim to make substantial contributions to projects that matter.
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Andika+Wahyu+Syaputra!;" />
-</h1>
-<h3 align="center">A passionate software developer from Indonesia | Front-end & Back-end Dev</h3>
+---
 
-<br/>
+### 🛠️ Technologies & Tools
 
-<div align="center">
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-🔭 I’m currently working on **a property management app (Terra Stay)**
+---
 
-🌱 I’m currently learning **JavaScript, TypeScript, React.Js, Next.Js, MongoDB, Node.Js, Express.Js**
+### 💼 Career Goals
 
-💬 Ask me about **React.Js, Next.Js, MongoDB, Node.Js**
+I'm currently focusing on **Cyber Security**, with the aspiration of becoming a **pentester on a Red Team**. My technical skills combined with my keen interest in Cyber Security position me as a valuable asset in facing challenges in this field.
 
-⚡ Fun fact **Bananas are berries, but strawberries are not.**
+---
 
-<br/>
+### 🎉 Fun Facts
 
-<div align="center"> 
-  <a href="mailto:andikawahyusyaputra@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/andika-wahyu-syaputra" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="#" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-  </a>
-  <a href="https://stackoverflow.com/users/22363347/andika-wahyu-syaputra" target="_blank">
-     <img src="https://img.shields.io/badge/Stackoverflow-333333?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank" />
-  </a>
-</div>
+- I'm deeply interested in the world of cinema, especially the **Marvel Cinematic Universe**.
+- When I'm not busy with work and projects, I enjoy discussing intriguing topics like **space travel** and **the concept of time exploration** with friends.
 
-<hr/>
+---
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,php,java,py,cpp,cs,dart,html,css,bootstrap,react,qt,tailwind,laravel,nodejs,nextjs,flutter,flask,express,ps,tensorflow,matlab,arduino,git,github,postman,selenium,mysql,mongodb,sqlite,firebase,vscode" />
-</div>
+### 📫 How to Reach Me
 
-<br/>
-<hr/>
+- Email: [rifqifachriza24@gmail.com](mailto:rifqifachriza24@gmail.com)
+- LinkedIn: [Rifqi Fachriza Sukmana](https://www.linkedin.com/in/rifqi-fachriza-sukmana/)
+- GitHub: [@Mysteriza](https://github.com/mysteriza)
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/martinzakhaev/martinzakhaev/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mysteriza&show_icons=true&theme=dark&locale=en&layout=compact" alt="Iqfir Azirhcaf" /></p>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mysteriza&show_icons=true&theme=dark&locale=en" alt="Iqfir Azirhcaf" /></p>
 </div>
 
-<hr/>
+---
+📝 [Resume]([https://my-portfolio.com/my-resume](https://github.com/mysteriza))
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>   
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=martinzakhaev&show_icons=true&theme=dark&locale=en&layout=compact" alt="martinzakhaev" /></p>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martinzakhaev&theme=dark" alt="martinzakhaev" /></p>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martinzakhaev&show_icons=true&theme=dark&locale=en" alt="martinzakhaev" /></p>
-</div>
-
-<br/><br/>
-<hr/>
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin+or+Email!;I'm+always+down+to+collab+😁">
-</h3>
-
-<br/>
+⭐️ From [@Mysteriza](https://github.com/mysteriza)
