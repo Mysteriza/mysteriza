@@ -23,7 +23,7 @@ I'm a passionate **Backend Developer** and **Cyber Security Enthusiast**. With a
 
 ### 💼 Career Goals
 
-I'm currently focusing on **Cyber Security**, with the aspiration of becoming a **pentester on a Red Team**. My technical skills combined with my keen interest in Cyber Security position me as a valuable asset in facing challenges in this field.
+I'm currently focusing on **Cyber Security** and **Internet of Things**, with the aspiration of becoming a ***pentester on a Red Team***. My technical skills combined with my keen interest in Cyber Security and Internet of Things position me as a valuable asset in facing challenges in these fields
 
 ---
 
@@ -39,6 +39,7 @@ I'm currently focusing on **Cyber Security**, with the aspiration of becoming a 
 - Email: [rifqifachriza24@gmail.com](mailto:rifqifachriza24@gmail.com)
 - LinkedIn: [Rifqi Fachriza Sukmana](https://www.linkedin.com/in/rifqi-fachriza-sukmana/)
 - GitHub: [@Mysteriza](https://github.com/mysteriza)
+- Telegram: [Mysteriza](https://t.me/mysteriza)
 
 <div align="center">
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mysteriza&show_icons=true&theme=dark&locale=en&layout=compact" alt="Iqfir Azirhcaf" /></p>
