@@ -1,4 +1,6 @@
-# Hi there, I'm Rifqi Fachriza S 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hallo+👋;+I'm+Rifqi+Fachriza+Sukmana!;" />
+</h1>
 
 ## About Me
 I'm a passionate **Backend Developer** and **Cyber Security Enthusiast**. With a strong technical background, I aim to make substantial contributions to projects that matter.
@@ -30,7 +32,7 @@ I'm currently focusing on **Cyber Security** and **Internet of Things**, with th
 ### 🎉 Fun Facts
 
 - I'm deeply interested in the world of cinema, especially the **Marvel Cinematic Universe**.
-- When I'm not busy with work and projects, I enjoy discussing intriguing topics like **space travel** and **the concept of time exploration** with friends.
+- When I'm not busy with work or college, I like talking about cool topics like space travel and time travel theories with friends. I also enjoy working on simple IoT projects in my free time.
 
 ---
 
@@ -40,6 +42,7 @@ I'm currently focusing on **Cyber Security** and **Internet of Things**, with th
 - LinkedIn: [Rifqi Fachriza Sukmana](https://www.linkedin.com/in/rifqi-fachriza-sukmana/)
 - GitHub: [@Mysteriza](https://github.com/mysteriza)
 - Telegram: [Mysteriza](https://t.me/mysteriza)
+- Discord: **Mysteriza#8017**
 
 <div align="center">
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mysteriza&show_icons=true&theme=dark&locale=en&layout=compact" alt="Iqfir Azirhcaf" /></p>
