@@ -1,4 +1,4 @@
-# Hi there, I'm Rifqi Fachriza Sukmana 👋
+# Hi there, I'm Rifqi Fachriza S 👋
 
 ## About Me
 I'm a passionate **Backend Developer** and **Cyber Security Enthusiast**. With a strong technical background, I aim to make substantial contributions to projects that matter.
@@ -8,10 +8,16 @@ I'm a passionate **Backend Developer** and **Cyber Security Enthusiast**. With a
 ### 🛠️ Technologies & Tools
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![](https://img.shields.io/badge/Pascal-0298C3?style=for-the-badge&logo=pascal&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 
 ---
 
@@ -38,8 +44,3 @@ I'm currently focusing on **Cyber Security**, with the aspiration of becoming a 
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mysteriza&show_icons=true&theme=dark&locale=en&layout=compact" alt="Iqfir Azirhcaf" /></p>
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mysteriza&show_icons=true&theme=dark&locale=en" alt="Iqfir Azirhcaf" /></p>
 </div>
-
----
-📝 [Resume]([https://my-portfolio.com/my-resume](https://github.com/mysteriza))
-
-⭐️ From [@Mysteriza](https://github.com/mysteriza)
