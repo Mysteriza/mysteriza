@@ -31,7 +31,7 @@ I'm currently focusing on **Backend Developer** and **Cyber Security**, with the
 
 ### 🎉 Fun Facts
 
-- I'm deeply interested in the world of cinema, especially the **Marvel Cinematic Universe**.
+- I'm deeply interested in the world of movie, especially the **Marvel Cinematic Universe**.
 - When I'm not busy with work or college, I like talking about cool topics like space travel and time travel theories with friends. I also enjoy working on simple **Internet of Things** projects in my free time.
 
 ---
@@ -40,11 +40,18 @@ I'm currently focusing on **Backend Developer** and **Cyber Security**, with the
 
 - Email: [rifqifachriza24@gmail.com](mailto:rifqifachriza24@gmail.com)
 - LinkedIn: [Rifqi Fachriza Sukmana](https://www.linkedin.com/in/rifqi-fachriza-sukmana/)
-- GitHub: [@Mysteriza](https://github.com/mysteriza)
+- GitHub: [Mysteriza](https://github.com/mysteriza)
 - Telegram: [Mysteriza](https://t.me/mysteriza)
-- Discord: **Mysteriza#8017**
+- Discord: [Mysteriza#8017](https://discord.com/users/mysteriza)
 
 <div align="center">
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mysteriza&show_icons=true&theme=dark&locale=en&layout=compact" alt="Iqfir Azirhcaf" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mysteriza&theme=dark" alt="mysteriza" /></p>
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mysteriza&show_icons=true&theme=dark&locale=en" alt="Iqfir Azirhcaf" /></p>
+</div>
+
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/martinzakhaev/martinzakhaev/output/github-contribution-grid-snake.svg" /> 
+  <br/><br/>
 </div>
