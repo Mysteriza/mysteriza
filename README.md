@@ -25,7 +25,7 @@ I'm a passionate **Backend Developer** and **Cyber Security Enthusiast**. With a
 
 ### 💼 Career Goals
 
-I'm currently focusing on **Cyber Security** and **Internet of Things**, with the aspiration of becoming a ***pentester on a Red Team***. My technical skills combined with my keen interest in Cyber Security and Internet of Things position me as a valuable asset in facing challenges in these fields
+I'm currently focusing on **Cyber Security** and **Internet of Things**, with the aspiration of becoming a ***pentester on a Red Team***. My technical skills combined with my keen interest in Cyber Security and Internet of Things position me as a valuable asset in facing challenges in these fields.
 
 ---
 
