@@ -25,14 +25,14 @@ I'm a passionate **Backend Developer** and **Cyber Security Enthusiast**. With a
 
 ### 💼 Career Goals
 
-I'm currently focusing on **Cyber Security** and **Internet of Things**, with the aspiration of becoming a ***pentester on a Red Team***. My technical skills combined with my keen interest in Cyber Security and Internet of Things position me as a valuable asset in facing challenges in these fields.
+I'm currently focusing on **Backend Developer** and **Cyber Security**, with the aspiration of becoming a ***pentester on a Red Team***. My technical skills combined with my keen interest in Backend and Cyber Security position me as a valuable asset in facing challenges in these fields.
 
 ---
 
 ### 🎉 Fun Facts
 
 - I'm deeply interested in the world of cinema, especially the **Marvel Cinematic Universe**.
-- When I'm not busy with work or college, I like talking about cool topics like space travel and time travel theories with friends. I also enjoy working on simple IoT projects in my free time.
+- When I'm not busy with work or college, I like talking about cool topics like space travel and time travel theories with friends. I also enjoy working on simple **Internet of Things** projects in my free time.
 
 ---
 
