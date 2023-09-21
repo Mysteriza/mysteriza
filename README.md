@@ -29,7 +29,7 @@ I'm currently focusing on **Backend Developer** and **Cyber Security**, with the
 
 ---
 
-### 🎉 Fun Facts
+### 🎉 Hobby
 
 - I'm deeply interested in the world of movie, especially the **Marvel Cinematic Universe**.
 - When I'm not busy with work or college, I like talking about cool topics like space travel and time travel theories with friends. I also enjoy working on simple **Internet of Things** projects in my free time.
