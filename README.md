@@ -2,6 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hallo+👋;+I'm+Rifqi+Fachriza+Sukmana!;" />
 </h1>
 
+[![](https://visitcount.itsvg.in/api?id=Mysteriza&label=Profile%20Views&color=3&icon=0&pretty=false)](https://visitcount.itsvg.in)
 ## About Me
 I'm a passionate **Backend Developer** and **Cyber Security Enthusiast**. With a strong technical background, I aim to make substantial contributions to projects that matter.
 
