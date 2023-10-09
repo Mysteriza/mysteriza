@@ -46,7 +46,7 @@ I'm currently focusing on **Backend Developer** and **Cyber Security**, with the
 ### 📫 How to Reach Me
 
 - Email: [mysteriza@proton.me](mailto:mysteriza@proton.me)
-- LinkedIn: [Rifqi Fachriza Sukmana](https://www.linkedin.com/in/rifqi-fachriza-sukmana/)
+- LinkedIn: [Rifqi Fachriza Sukmana](https://www.linkedin.com/in/rifqifachrizasukmana/)
 - GitHub: [Mysteriza](https://github.com/mysteriza)
 - Telegram: [Mysteriza](https://t.me/mysteriza)
 - Discord: [Mysteriza#8017](https://discord.com/users/mysteriza)
