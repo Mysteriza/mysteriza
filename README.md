@@ -59,6 +59,6 @@ I'm currently focusing on **Backend Developer** and **Cyber Security**, with the
 
 <div align="center">
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/martinzakhaev/martinzakhaev/output/github-contribution-grid-snake.svg" /> 
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mysteriza/mysteriza/output/github-contribution-grid-snake.svg" /> 
   <br/><br/>
 </div>
