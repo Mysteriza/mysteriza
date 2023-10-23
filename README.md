@@ -56,9 +56,3 @@ I'm currently focusing on **Backend Developer** and **Cyber Security**, with the
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mysteriza&theme=dark" alt="mysteriza" /></p>
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mysteriza&show_icons=true&theme=dark&locale=en" alt="Iqfir Azirhcaf" /></p>
 </div>
-
-<div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mysteriza/mysteriza/output/github-contribution-grid-snake.svg" /> 
-  <br/><br/>
-</div>
