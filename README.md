@@ -8,38 +8,9 @@ I'm a passionate **Backend Developer** and **Cyber Security Enthusiast**. With a
 
 ---
 
-### 🛠️ Technologies & Tools
-
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![](https://img.shields.io/badge/Pascal-0298C3?style=for-the-badge&logo=pascal&logoColor=white)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
----
-
 ### 💼 Career Goals
 
 I'm currently focusing on **Backend Developer** and **Cyber Security**, with the aspiration of becoming a ***pentester on a Red Team***. My technical skills combined with my keen interest in Backend and Cyber Security position me as a valuable asset in facing challenges in these fields.
-
----
-
-### 🎉 Hobby
-
-- I'm deeply interested in the world of movie, especially the **Marvel Cinematic Universe**.
-- When I'm not busy with work or college, I like talking about cool topics like space travel and time travel theories with friends. I also enjoy working on simple **Internet of Things** projects in my free time.
 
 ---
 
