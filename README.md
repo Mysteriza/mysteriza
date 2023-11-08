@@ -4,7 +4,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Mysteriza&label=Profile%20Views&color=3&icon=0&pretty=false)](https://visitcount.itsvg.in)
 ## About Me
-I'm a passionate **Backend Developer** and **Cyber Security Enthusiast**. With a strong technical background, I aim to make substantial contributions to projects that matter.
+I'm a **Backend Developer** and **Cyber Security Enthusiast**. With a strong technical background, I aim to make substantial contributions to projects that matter.
 
 ---
 
