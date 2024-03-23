@@ -20,7 +20,7 @@ I'm currently focusing on **Backend Developer** and **Cyber Security**, with the
 - LinkedIn: [Rifqi Fachriza Sukmana](https://www.linkedin.com/in/rifqifachrizasukmana/)
 - GitHub: [Mysteriza](https://github.com/mysteriza)
 - Telegram: [Mysteriza](https://tii.la/telegram-rifqi)
-- Discord: [Mysteriza#8017](https://tii.la/discord-rifqi)
+- Discord: Mysteriza#8017
 
 <div align="center">
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mysteriza&show_icons=true&theme=dark&locale=en&layout=compact" alt="Iqfir Azirhcaf" /></p>
