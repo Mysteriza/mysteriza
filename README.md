@@ -76,6 +76,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mysteriza/mysteriza/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/Mysteriza/output/main/snake.svg)
+
 
 ###
