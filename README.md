@@ -1,8 +1,8 @@
-<h2 align="center">Hi👋<br>My name is Rifqi Fachriza S</h2>
+<h1 align="center">Hi👋<br>My name is Rifqi Fachriza S</h1>
 
 ###
 
-<h4 align="center">A computer science student in their final semester who is working on their thesis and actively learning web penetration testing.</h4>
+<h3 align="center">A computer science student in their final semester who is working on their thesis and actively learning web penetration testing.</h3>
 
 ###
 
