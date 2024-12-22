@@ -76,7 +76,7 @@
 
 ###
 
-![Snake animation](https://raw.githubusercontent.com/Mysteriza/output/main/snake.svg)
+![snake animation](https://github.com/mysteriza/mysteriza/blob/output/github-contribution-grid-snake2.svg)
 
 
 ###
