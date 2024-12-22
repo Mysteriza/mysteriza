@@ -1,8 +1,8 @@
-<h1 align="center">Hi👋<br>My name is Rifqi Fachriza S</h1>
+<h2 align="center">Hi👋<br>My name is Rifqi Fachriza S</h2>
 
 ###
 
-<h3 align="center">A computer science student in their final semester who is working on their thesis and actively learning web penetration testing.</h3>
+<h4 align="center">A computer science student in their final semester who is working on their thesis and actively learning web penetration testing.</h4>
 
 ###
 
@@ -10,12 +10,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mysteriza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mysteriza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=mysteriza&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mysteriza/count.svg?"  />
 </div>
 
 ###
@@ -81,5 +75,11 @@
 ###
 
 <img src="https://raw.githubusercontent.com/mysteriza/mysteriza/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mysteriza.mysteriza&left_color=darkgreen&left_text=Visitor"  />
+</div>
 
 ###
