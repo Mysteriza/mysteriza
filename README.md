@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">A computer science student in their final semester who is working on their thesis and actively learning web penetration testing.</h3>
+<h3 align="center">A computer science student in their final semester who is working on their thesis and passively learning web pentesting.</h3>
 
 ###
 
