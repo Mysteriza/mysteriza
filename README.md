@@ -66,9 +66,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="30" alt="qt logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/mysteriza/mysteriza/output/snake.svg" alt="Snake animation" />
 
 ###
 
