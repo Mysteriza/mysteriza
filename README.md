@@ -2,10 +2,6 @@
 
 ###
 
-<h3 align="center">A computer science student in their final semester who is working on their thesis and passively learning web pentesting.</h3>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mysteriza&show_icons=true&include_all_commits=true&theme=chartreuse-dark" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mysteriza&layout=compact&langs_count=5&theme=chartreuse-dark" height="150" alt="languages graph" />
