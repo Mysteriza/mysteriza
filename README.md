@@ -2,7 +2,7 @@
   <img src="./assets/Hand%20Wave.gif" width="40px" />
   <h1>Hi, I'm Riza</h1>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38C2FF&center=true&vCenter=true&width=600&lines=Web+Developer;IoT+Enthusiast;Learning+Cybersecurity;Building+Secure+Web+Experiences)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38C2FF&center=true&vCenter=true&width=600&lines=Web+Developer;IoT+Enthusiast;Learning+Cybersecurity)](https://git.io/typing-svg)
   
   <p>
     <a href="https://github.com/mysteriza">
@@ -14,6 +14,8 @@
 
 ---
 
+<div align="center">
+
 ### 👨‍💻 About Me
 
 <p>
@@ -22,20 +24,18 @@
   <img src="https://img.shields.io/badge/Learning-Cybersecurity-red?style=flat-square" />
 </p>
 
-• Focused on building **secure and reliable** web experiences  
-• Check out my [**portfolio**](https://mysteriza.my.id/) for projects, resume, and certificates  
-• Open to collaboration and interesting tech discussions
-
 **🎯 Currently Working On**  
 Web Development • IoT Projects • Security Research
-
-**📚 Learning Path**  
-Cybersecurity • Web Security • Penetration Testing
 
 **🎬 When I'm Not Coding**  
 Watching Movies • IoT Tinkering • Pentesting Tools
 
+• Check out my [**portfolio**](https://mysteriza.my.id/) for projects, resume, and certificates  
+• Open to collaboration and interesting tech discussions
+
 💡 _Fun Fact: I learn cybersecurity because I want to hack my own code before others do!_
+
+</div>
 
 ---
 
