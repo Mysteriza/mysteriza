@@ -41,7 +41,7 @@ Watching Movies | IoT Tinkering | Pentesting Tools
 
 <br>
 
-🌐 Check out my <a href="https://mysteriza.my.id/" target="_blank"><strong>portfolio</strong></a> for projects, resume, and certificates
+🌐 Check out my <a href="https://mysteriza.my.id"><strong>portfolio</strong></a> for projects, resume, and certificates
 
 <br>
 
@@ -117,5 +117,5 @@ Watching Movies | IoT Tinkering | Pentesting Tools
 ---
 
 <div align="center">
-  <p>⭐️ From <a href="https://mysteriza.my.id" target="_blank">Mysteriza</a></p>
+  <p>⭐️ From <a href="https://mysteriza.my.id">Mysteriza</a></p>
 </div>
