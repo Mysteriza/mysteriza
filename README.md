@@ -8,15 +8,11 @@
     <a href="https://github.com/mysteriza">
       <img src="https://img.shields.io/github/followers/mysteriza?label=Followers&style=social" alt="GitHub followers" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=mysteriza&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=mysteriza&label=Visitors&color=0e75b6&style=flat" alt="Visitors" />
   </p>
 </div>
 
 ---
-
-<table>
-<tr>
-<td width="60%">
 
 ### 👨‍💻 About Me
 
@@ -39,11 +35,7 @@ Cybersecurity • Web Security • Penetration Testing
 **🎬 When I'm Not Coding**  
 Watching Movies • IoT Tinkering • Pentesting Tools
 
-💡 _Fun Fact: I do a lot of vibe coding and yell at AI when it refuses to cooperate!_
-
-</td>
-</tr>
-</table>
+💡 _Fun Fact: I learn cybersecurity because I want to hack my own code before others do!_
 
 ---
 
@@ -102,6 +94,14 @@ Watching Movies • IoT Tinkering • Pentesting Tools
 
 ---
 
+### 🏆 GitHub Trophies
+
 <div align="center">
-  <p>⭐️ From <a href="https://github.com/mysteriza">mysteriza</a></p>
+  <img src="https://github-profile-trophy.vercel.app/?username=mysteriza&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=5" alt="GitHub Trophies" />
+</div>
+
+---
+
+<div align="center">
+  <p>⭐️ From <a href="https://mysteriza.my.id">Mysteriza</a></p>
 </div>
