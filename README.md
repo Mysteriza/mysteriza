@@ -91,6 +91,44 @@ Watching Movies | IoT Tinkering | Pentesting Tools
 
 ---
 
+<details>
+<summary><b>🛠️ Things I use to get stuff done</b></summary>
+
+<br>
+
+**💻 Operating System**  
+![Linux Mint](https://img.shields.io/badge/Linux_Mint_22.2_Zara-87CF3E?style=flat&logo=linux-mint&logoColor=white)
+
+**🖥️ Hardware**  
+![Laptop](https://img.shields.io/badge/Lenovo_Ideapad_Slim_3_Ryzen_3_4300U-E2231A?style=flat&logo=lenovo&logoColor=white)
+
+**🌐 Browser**  
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=flat&logo=brave&logoColor=white)
+
+**⚡ Terminal**  
+![ZSH](<https://img.shields.io/badge/ZSH_with_Oh_My_Zsh_(Powerlevel10k)-4EAA25?style=flat&logo=gnu-bash&logoColor=white>)
+
+**📝 Code Editors**  
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity_IDE-5C2D91?style=flat&logo=google&logoColor=white)
+
+**🔐 Security & Utilities**  
+![Bitwarden](https://img.shields.io/badge/Bitwarden-175DDC?style=flat&logo=bitwarden&logoColor=white)
+![ProtonVPN](https://img.shields.io/badge/ProtonVPN-56B366?style=flat&logo=protonvpn&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Warp_Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![TOR](https://img.shields.io/badge/TOR-7D4698?style=flat&logo=tor-browser&logoColor=white)
+![Proxychains](https://img.shields.io/badge/Proxychains-000000?style=flat&logo=linux&logoColor=white)
+
+**📚 Learning & Updates**  
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)
+![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)
+![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=flat&logo=hackerone&logoColor=white)
+
+</details>
+
+---
+
 ### 📊 GitHub Statistics
 
 <div align="center">
