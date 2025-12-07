@@ -92,13 +92,9 @@ Watching Movies | IoT Tinkering | Pentesting Tools
 ---
 
 <details>
-<summary><b>🛠️ Things I use to get stuff done</b></summary>
+<summary><b>💼 Development Setup</b></summary>
 
 <br>
-
-<table>
-<tr>
-<td width="50%">
 
 **💻 Operating System**  
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint_22.2_Zara-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
@@ -111,11 +107,8 @@ Watching Movies | IoT Tinkering | Pentesting Tools
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white)
 
 **⚡ Terminal**  
-![ZSH](https://img.shields.io/badge/ZSH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+![ZSH](https://img.shields.io/badge/ZSH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Oh My Zsh](https://img.shields.io/badge/Oh_My_Zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white)
-
-</td>
-<td width="50%">
 
 **📝 Code Editors**  
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -123,20 +116,16 @@ Watching Movies | IoT Tinkering | Pentesting Tools
 
 **🔐 Security & Utilities**  
 ![Bitwarden](https://img.shields.io/badge/Bitwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=white)
-![ProtonVPN](https://img.shields.io/badge/ProtonVPN-56B366?style=for-the-badge&logo=protonvpn&logoColor=white)  
+![ProtonVPN](https://img.shields.io/badge/ProtonVPN-56B366?style=for-the-badge&logo=protonvpn&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Warp-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![TOR](https://img.shields.io/badge/TOR-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white)
 ![Proxychains](https://img.shields.io/badge/Proxychains-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 **📚 Learning & Updates**  
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)  
+![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 ![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)
 ![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)
-
-</td>
-</tr>
-</table>
 
 </details>
 
