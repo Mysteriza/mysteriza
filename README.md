@@ -2,7 +2,7 @@
   <img src="./assets/Hand%20Wave.gif" width="40px" />
   <h1>Hi, I'm Riza</h1>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38C2FF&center=true&vCenter=true&width=600&lines=Web+Developer;IoT+Enthusiast;Learning+Cybersecurity)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38C2FF&center=true&vCenter=true&width=600&lines=Vibe+Coder;IoT+Enthusiast;Securing+Good+Vibes)](https://git.io/typing-svg)
   
   <p>
     <a href="https://github.com/mysteriza">
@@ -31,9 +31,13 @@
   <img src="https://img.shields.io/badge/Learning-Cybersecurity-E63946?style=for-the-badge&logoColor=white" />
 </p>
 
+<p align="center">
+<code>🟢 Status: <del>Web Developer</del> <strong>Vibe Code Architect</strong></code>
+</p>
+
 <br>
 
-**🎯 Currently Working On**  
+**🎯 Currently Vibing With**  
 Web Development | IoT Projects | Security Research
 
 **🎬 When I'm Not Coding**  
