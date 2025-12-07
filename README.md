@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-<code>🟢 Status: <del>Web Developer</del> <strong>Vibe Code Architect</strong></code>
+<code>🟢 Status: <del>Web Developer</del> <strong>AI-Augmented Architect</strong></code>
 </p>
 
 <br>
