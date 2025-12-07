@@ -26,32 +26,22 @@
 
 <br>
 
-<p style="font-size: 18px;">
-
-🔒 Focused on building **secure and reliable** web experiences  
-🌐 Check out my [**portfolio**](https://mysteriza.my.id/) for projects, resume, and certificates  
-💬 Open to collaboration and interesting tech discussions
-
-</p>
-
-<br>
-
 ### 🎯 Currently Working On
 
 <p style="font-size: 16px;">
 Web Development • IoT Projects • Security Research
 </p>
 
-### 📚 Learning Path
-
-<p style="font-size: 16px;">
-Cybersecurity • Web Security • Penetration Testing
-</p>
-
 ### 🎬 When I'm Not Coding
 
 <p style="font-size: 16px;">
 Watching Movies • IoT Tinkering • Pentesting Tools
+</p>
+
+<br>
+
+<p style="font-size: 16px;">
+🌐 Check out my <a href="https://mysteriza.my.id/"><strong>portfolio</strong></a> for projects, resume, and certificates
 </p>
 
 <br>
@@ -68,7 +58,7 @@ Watching Movies • IoT Tinkering • Pentesting Tools
 <tr>
 <td width="55%">
 
-### 🛠️ Tech Stack _(Technologies I've worked with)_
+### 🛠️ Tech Stack <em>(Technologies I've worked with)</em>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -128,5 +118,5 @@ Watching Movies • IoT Tinkering • Pentesting Tools
 ---
 
 <div align="center">
-  <p>⭐️ From <a href="https://mysteriza.my.id">Mysteriza</a></p>
+  <p>⭐️ From <a href="https://mysteriza.my.id">mysteriza</a></p>
 </div>
