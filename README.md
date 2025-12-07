@@ -19,21 +19,46 @@
 ### 👨‍💻 About Me
 
 <p>
-  <img src="https://img.shields.io/badge/Role-Web_Developer-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Interest-IoT-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Learning-Cybersecurity-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Role-Web_Developer-0077B5?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Interest-IoT-FF6B35?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-Cybersecurity-E63946?style=for-the-badge&logoColor=white" />
 </p>
 
-**🎯 Currently Working On**  
+<br>
+
+<p style="font-size: 18px;">
+
+🔒 Focused on building **secure and reliable** web experiences  
+🌐 Check out my [**portfolio**](https://mysteriza.my.id/) for projects, resume, and certificates  
+💬 Open to collaboration and interesting tech discussions
+
+</p>
+
+<br>
+
+### 🎯 Currently Working On
+
+<p style="font-size: 16px;">
 Web Development • IoT Projects • Security Research
+</p>
 
-**🎬 When I'm Not Coding**  
+### 📚 Learning Path
+
+<p style="font-size: 16px;">
+Cybersecurity • Web Security • Penetration Testing
+</p>
+
+### 🎬 When I'm Not Coding
+
+<p style="font-size: 16px;">
 Watching Movies • IoT Tinkering • Pentesting Tools
+</p>
 
-• Check out my [**portfolio**](https://mysteriza.my.id/) for projects, resume, and certificates  
-• Open to collaboration and interesting tech discussions
+<br>
 
-💡 _Fun Fact: I learn cybersecurity because I want to hack my own code before others do!_
+<p style="font-size: 16px;">
+💡 <em>Fun Fact: I learn cybersecurity because I want to hack my own code before others do!</em>
+</p>
 
 </div>
 
