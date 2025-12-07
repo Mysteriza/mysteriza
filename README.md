@@ -14,11 +14,18 @@
 
 ---
 
-<div align="center">
-
 ### 👨‍💻 About Me
 
-<p>
+<table>
+<tr>
+<td width="45%">
+
+<img src="./assets/coding2.gif" width="100%" alt="Coding Animation" />
+
+</td>
+<td width="55%">
+
+<p align="center">
   <img src="https://img.shields.io/badge/Role-Web_Developer-0077B5?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Interest-IoT-FF6B35?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Learning-Cybersecurity-E63946?style=for-the-badge&logoColor=white" />
@@ -26,31 +33,23 @@
 
 <br>
 
-### 🎯 Currently Working On
+**🎯 Currently Working On**  
+Web Development | IoT Projects | Security Research
 
-<p style="font-size: 16px;">
-Web Development • IoT Projects • Security Research
-</p>
-
-### 🎬 When I'm Not Coding
-
-<p style="font-size: 16px;">
-Watching Movies • IoT Tinkering • Pentesting Tools
-</p>
+**🎬 When I'm Not Coding**  
+Watching Movies | IoT Tinkering | Pentesting Tools
 
 <br>
 
-<p style="font-size: 16px;">
-🌐 Check out my <a href="https://mysteriza.my.id/"><strong>portfolio</strong></a> for projects, resume, and certificates
-</p>
+🌐 Check out my [**portfolio**](https://mysteriza.my.id/) for projects, resume, and certificates
 
 <br>
 
-<p style="font-size: 16px;">
-💡 <em>Fun Fact: I learn cybersecurity because I want to hack my own code before others do!</em>
-</p>
+💡 _Fun Fact: I learn cybersecurity because I want to hack my own code before others do!_
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -84,7 +83,7 @@ Watching Movies • IoT Tinkering • Pentesting Tools
 </td>
 <td width="45%">
 
-<img src="./assets/Night-Coding.gif" width="100%" alt="Coding" />
+<img src="./assets/coding.gif" width="100%" alt="Coding" />
 
 </td>
 </tr>
