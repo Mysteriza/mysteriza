@@ -57,7 +57,7 @@ Watching Movies | IoT Tinkering | Pentesting Tools
 <tr>
 <td width="55%">
 
-### 🛠️ Tech Stack <em>(Technologies I've worked with)</em>
+### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -139,19 +139,7 @@ Watching Movies | IoT Tinkering | Pentesting Tools
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mysteriza&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mysteriza&bg_color=0D1117&color=38C2FF&line=38C2FF&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mysteriza&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=5" alt="GitHub Trophies" />
 </div>
 
 ---
