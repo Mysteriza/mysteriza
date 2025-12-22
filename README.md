@@ -92,7 +92,7 @@ Watching Movies | IoT Tinkering | Pentesting Tools
 ---
 
 <details>
-<summary><b>💼 Development Setup</b></summary>
+<summary><b>💼 My Setup</b></summary>
 
 <br>
 
@@ -134,12 +134,22 @@ Watching Movies | IoT Tinkering | Pentesting Tools
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mysteriza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mysteriza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mysteriza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" height="150" /> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mysteriza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mysteriza&theme=transparent" height="280" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mysteriza&bg_color=0D1117&color=38C2FF&line=38C2FF&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1&pause=10000000&color=38C2FF&center=true&width=500&height=30&lines=Mysteriza's+Trophy" alt="Mysteriza's Trophy" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-trophies.vercel.app/?username=mysteriza&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
 </div>
 
 ---
