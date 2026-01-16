@@ -97,7 +97,8 @@ Watching Movies | IoT Tinkering | Pentesting Tools
 <br>
 
 **💻 Operating System**  
-![Linux Mint](https://img.shields.io/badge/Linux_Mint_22.2_Zara-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
+![Windows 11 Pro](https://img.shields.io/badge/Windows_11_Pro-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
+![Atlas OS](https://img.shields.io/badge/Atlas_OS-1793D1?style=for-the-badge&logo=windows&logoColor=white)
 
 **🖥️ Hardware**  
 ![Laptop](https://img.shields.io/badge/Lenovo_Ideapad_Slim_3-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)  
@@ -107,19 +108,17 @@ Watching Movies | IoT Tinkering | Pentesting Tools
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white)
 
 **⚡ Terminal**  
-![ZSH](https://img.shields.io/badge/ZSH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Oh My Zsh](https://img.shields.io/badge/Oh_My_Zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell_7-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Oh My Posh](https://img.shields.io/badge/Oh_My_Posh-1A2C34?style=for-the-badge&logo=windowsterminal&logoColor=white)
 
 **📝 Code Editors**  
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity_IDE-5C2D91?style=for-the-badge&logo=google&logoColor=white)
 
 **🔐 Security & Utilities**  
-![Bitwarden](https://img.shields.io/badge/Bitwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=white)
+![Proton Pass](https://img.shields.io/badge/Proton_Pass-6D4AFF?style=for-the-badge&logo=proton&logoColor=white)
 ![ProtonVPN](https://img.shields.io/badge/ProtonVPN-56B366?style=for-the-badge&logo=protonvpn&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Warp-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![TOR](https://img.shields.io/badge/TOR-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white)
-![Proxychains](https://img.shields.io/badge/Proxychains-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 **📚 Learning & Updates**  
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
