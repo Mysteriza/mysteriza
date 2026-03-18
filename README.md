@@ -140,13 +140,6 @@ Watching Movies | IoT Tinkering | Pentesting Tools
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mysteriza&theme=transparent" height="280" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1&pause=10000000&color=38C2FF&center=true&width=500&height=30&lines=Mysteriza's+Trophy" alt="Mysteriza's Trophy" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=mysteriza&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
-</div>
-
 ---
 
 <div align="center">
