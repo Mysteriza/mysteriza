@@ -2,8 +2,6 @@
   <img src="./assets/Hand%20Wave.gif" width="40px" />
   <h1>Hi, I'm Riza</h1>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38C2FF&center=true&vCenter=true&width=600&lines=AI-Augmented+Architect;IoT+Enthusiast;Securing+Good+Vibes)](https://git.io/typing-svg)
-  
   <p>
     <a href="https://github.com/mysteriza">
       <img src="https://img.shields.io/github/followers/mysteriza?label=Followers&style=social" alt="GitHub followers" />
@@ -42,10 +40,6 @@ Watching Movies | IoT Tinkering | Pentesting Tools
 <br>
 
 🌐 Check out my <a href="https://mysteriza.my.id"><strong>portfolio</strong></a> for projects, resume, and certificates
-
-<br>
-
-💡 _Fun Fact: I learn cybersecurity because I want to hack my own code before others do!_
 
 </td>
 </tr>
