@@ -127,9 +127,11 @@ Watching Movies | IoT Tinkering | Pentesting Tools
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <picture>
-    <img src="github-metrics.svg" alt="GitHub Metrics" />
-  </picture>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mysteriza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" height="150" /> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mysteriza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mysteriza&theme=transparent" height="280" />
 </div>
 
 ---
