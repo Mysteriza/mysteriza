@@ -24,3 +24,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Jakarta
+          
+          # Isometric Calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_main: yes
