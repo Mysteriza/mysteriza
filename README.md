@@ -85,45 +85,6 @@ Watching Movies | IoT Tinkering | Pentesting Tools
 
 ---
 
-<details>
-<summary><b>💼 My Setup</b></summary>
-
-<br>
-
-**💻 Operating System**  
-![Windows 11 Pro](https://img.shields.io/badge/Windows_11_Pro-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
-![Atlas OS](https://img.shields.io/badge/Atlas_OS-1793D1?style=for-the-badge&logo=windows&logoColor=white)
-
-**🖥️ Hardware**  
-![Laptop](https://img.shields.io/badge/Lenovo_Ideapad_Slim_3-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)  
-![CPU](https://img.shields.io/badge/Ryzen_3_4300U-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-
-**🌐 Browser**  
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white)
-
-**⚡ Terminal**  
-![PowerShell](https://img.shields.io/badge/PowerShell_7-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Oh My Posh](https://img.shields.io/badge/Oh_My_Posh-1A2C34?style=for-the-badge&logo=windowsterminal&logoColor=white)
-
-**📝 Code Editors**  
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity_IDE-5C2D91?style=for-the-badge&logo=google&logoColor=white)
-
-**🔐 Security & Utilities**  
-![Proton Pass](https://img.shields.io/badge/Proton_Pass-6D4AFF?style=for-the-badge&logo=proton&logoColor=white)
-![ProtonVPN](https://img.shields.io/badge/ProtonVPN-56B366?style=for-the-badge&logo=protonvpn&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Warp-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-**📚 Learning & Updates**  
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
-![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)
-![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)
-
-</details>
-
----
-
 ### 📊 GitHub Statistics
 
 <div align="center">
