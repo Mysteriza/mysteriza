@@ -1,9 +1,7 @@
 <div align="center">
   <img src="./assets/Hand%20Wave.gif" width="40px" />
   <h1>Hi, I'm Riza</h1>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Mononoki&weight=500&size=26&duration=4000&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=700&height=60&lines=Full-Stack+Developer;IoT+Tinkerer;Security+Researcher;AI+Explorer" alt="Typing intro" />
-    
+      
   <p>
     <a href="https://github.com/mysteriza">
       <img src="https://img.shields.io/github/followers/mysteriza?label=Followers&style=social" alt="GitHub followers" />
