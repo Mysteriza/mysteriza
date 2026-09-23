@@ -32,7 +32,7 @@
 <br>
 
 **🎯 Currently Vibing With**  
-Web Development | IoT Projects | Security Research
+Web Development | IoT Projects | Security Research | AI Experiments
 
 **🎬 When I'm Not Coding**  
 Watching Movies | IoT Tinkering | Pentesting Tools
@@ -57,6 +57,9 @@ Watching Movies | IoT Tinkering | Pentesting Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
@@ -66,11 +69,12 @@ Watching Movies | IoT Tinkering | Pentesting Tools
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/-Gemini_AI-4285F4?style=flat&logo=google&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
@@ -82,6 +86,20 @@ Watching Movies | IoT Tinkering | Pentesting Tools
 </td>
 </tr>
 </table>
+
+---
+
+### 💜 My Favorite Projects
+
+| Area | Project | What it is |
+|---|---|---|
+| Web | [split-bill-web](https://github.com/Mysteriza/split-bill-web) | Bill-splitting app with Next.js, TypeScript, and Tailwind CSS |
+| IoT | [ESP8266Display-BME680](https://github.com/Mysteriza/ESP8266Display-BME680) | Portable offline environmental monitor: ESP8266, OLED display, BME680 sensor |
+| Security | [handshakeCracker](https://github.com/Mysteriza/handshakeCracker) | WPA/WPA2 handshake auditing with aircrack-ng and hashcat |
+| AI | [echolens](https://github.com/Mysteriza/echolens) | YouTube comment analyzer using IndoBERT and Gemini |
+| Extensions | [ClearOnStart](https://github.com/Mysteriza/ClearOnStart) | Chrome extension that clears history, cache, and form data on startup, no telemetry |
+| Extensions | [URLSweep](https://github.com/Mysteriza/URLSweep) | Chrome extension that strips tracking parameters from URLs |
+| Firmware | [firmware](https://github.com/Mysteriza/firmware) | Active contributor to Bruce Firmware (ESP32), custom `my-reaper` UI/UX branch, forked from `BruceDevices/firmware` |
 
 ---
 
