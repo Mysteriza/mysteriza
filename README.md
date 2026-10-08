@@ -24,6 +24,7 @@
 <td width="55%">
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Open_to_Work-Available-brightgreen?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Role-Ordinary_User-0077B5?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Interest-IoT-FF6B35?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Learning-Cybersecurity-E63946?style=for-the-badge&logoColor=white" />
@@ -40,6 +41,9 @@ Watching Movies | IoT Tinkering | Pentesting Tools
 <br>
 
 🌐 Check out my <a href="https://mysteriza.my.id"><strong>portfolio</strong></a> for projects, resume, and certificates
+
+**💼 Open to Work**
+Available for freelance, internship, and full-time roles in Web Development. Reach out via my portfolio
 
 </td>
 </tr>
