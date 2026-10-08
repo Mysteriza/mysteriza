@@ -43,7 +43,7 @@ Watching Movies | IoT Tinkering | Pentesting Tools
 🌐 Check out my <a href="https://mysteriza.my.id"><strong>portfolio</strong></a> for projects, resume, and certificates
 
 **💼 Open to Work**
-Available for freelance, internship, and full-time roles in Web Development. Reach out via my portfolio
+Available for freelance, internship, and full-time roles in Web Development
 
 </td>
 </tr>
